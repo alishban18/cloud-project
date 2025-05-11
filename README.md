@@ -1,4 +1,4 @@
-# Cloud Project
+# Cloud Project - i210879 & i210783
 
 This is a full-stack cloud-based project featuring a frontend and backend, with integration to AWS services like S3 for file uploads, and a database (RDS or DynamoDB). This project is designed to demonstrate modern web application architecture and cloud-based deployment.
 
